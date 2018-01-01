@@ -1,0 +1,16 @@
+body {
+	background-color: black;
+	color: white;
+	border-style: double;
+}
+
+a {
+	color: red;
+	font-style: oblique;
+}
+
+button{
+	background-color: grey;
+	color: white;
+	font-size: 12px;
+}
